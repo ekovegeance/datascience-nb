@@ -12,5 +12,5 @@
 - [Data Cleansing]()
 - [Data Anotation]()
 
-***Resources:**
+**Resources:**
 - [Roadmap](https://roadmap.sh/data-analyst)
