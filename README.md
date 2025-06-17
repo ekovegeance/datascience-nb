@@ -11,3 +11,6 @@
 - [Data Exploration]()
 - [Data Cleansing]()
 - [Data Anotation]()
+
+***Resources:**
+- [Roadmap](https://roadmap.sh/data-analyst)
