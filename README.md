@@ -8,7 +8,7 @@
 
 **Feat:**
 - [Data Scraping](https://github.com/ekovegeance/fds-digitalent/blob/main/data-scraping.ipynb)
-- [Data Exploration]()
+- [Data Understanding]()
 - [Data Cleansing]()
 - [Data Anotation]()
 
