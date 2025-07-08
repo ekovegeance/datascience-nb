@@ -2,7 +2,7 @@
 *This repository contains the code and resources for the Fundamental Data Science course.*
 
 > [!TIP]
-> Recommended Tools.
+> Recommended IDE.
 > - [Pycharm](https://www.jetbrains.com/pycharm/) for better experience.
 
 
