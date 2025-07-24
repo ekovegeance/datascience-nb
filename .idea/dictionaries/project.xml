@@ -2,8 +2,10 @@
   <dictionary name="project">
     <words>
       <w>coolwarm</w>
+      <w>countplot</w>
       <w>digitalent</w>
       <w>nasabah</w>
+      <w>whitegrid</w>
     </words>
   </dictionary>
 </component>
