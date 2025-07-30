@@ -1,4 +1,4 @@
-# Fundamental Data Science
+# Data Science Notebook
 *This repository contains the code and resources for the Data Science course.*
 
 > [!TIP]
